@@ -17,59 +17,61 @@ Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description 
 This is a set of 25 themes for icewm.
-Thane			Xerithane <xerithane@nerdfarm.org>
-crud			<dwl@wolsi.com>
-Getaway			Xerithane <xerithane@nerdfarm.org>
-houseMoneyBlessing	?
-iMac-lol		RB_____ from the Jim-mac theme of Jakub Steiner
-lameh			artwiz
-aQua			CW Zuckschwerdt <zany@triq.net>
-mechasan		Pal Palocz <palocz.pal@mail.deltav.hu>
-Strange Dreams (MJ-5)	RudeSka
-stric			<johannes@defcom.se>
-Tile			Daniel W. Lemon  <dwl@wolsi.com>
-Timesteps		<dwl@wolsi.com>
-transistor		kraftBoy <gthomson@targetnet.com
-tubes			Sawsedge <sawsedge@yahoo.com>
-UFO Sightings (MJ-6)	RudeSka
-Unusual Scars		RudeSka
-Whistling		<dwl@wolsi.com>
-William3		William Wieboldt (Poke'mon Master) <waw@iname.com>
-Windows 3.1		Toaster T. Toaster <toaster@kami.com>
-WMgtk			enterfornone <efn@themes.org>
-WM.T.O			Pal Palocz <palocz.pal@mail.deltav.hu>
-WoodIT			Igor Truszkowski <igor@chaos.w.pl>
-xshare			Josef 'Jupp' Schugt <jupp@gmx.de>
-X.T.O			Pal Palocz <palocz.pal@mail.deltav.hu>
-zrpg			Joel Rosenthal
+Authors:
+Thane - Xerithane <xerithane@nerdfarm.org>
+crud - <dwl@wolsi.com>
+Getaway - Xerithane <xerithane@nerdfarm.org>
+houseMoneyBlessing - ?
+iMac-lol - RB_____ from the Jim-mac theme of Jakub Steiner
+lameh - artwiz
+aQua - CW Zuckschwerdt <zany@triq.net>
+mechasan - Pal Palocz <palocz.pal@mail.deltav.hu>
+Strange Dreams (MJ-5) - RudeSka
+stric - <johannes@defcom.se>
+Tile - Daniel W. Lemon  <dwl@wolsi.com>
+Timesteps - <dwl@wolsi.com>
+transistor - kraftBoy <gthomson@targetnet.com
+tubes - Sawsedge <sawsedge@yahoo.com>
+UFO Sightings (MJ-6) - RudeSka
+Unusual Scars - RudeSka
+Whistling - <dwl@wolsi.com>
+William3 - William Wieboldt (Poke'mon Master) <waw@iname.com>
+Windows 3.1 - Toaster T. Toaster <toaster@kami.com>
+WMgtk - enterfornone <efn@themes.org>
+WM.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
+WoodIT - Igor Truszkowski <igor@chaos.w.pl>
+xshare - Josef 'Jupp' Schugt <jupp@gmx.de>
+X.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
+zrpg - Joel Rosenthal
 
 %description -l pl
 Jest to zestaw 25 tematów do uprzyjemnienia wygl±du twojego icewm'a.
-Thane			Xerithane <xerithane@nerdfarm.org>
-crud			<dwl@wolsi.com>
-Getaway			Xerithane <xerithane@nerdfarm.org>
-houseMoneyBlessing	?
-iMac-lol		RB_____ from the Jim-mac theme of Jakub Steiner
-lameh			artwiz
-aQua			CW Zuckschwerdt <zany@triq.net>
-mechasan		Pal Palocz <palocz.pal@mail.deltav.hu>
-Strange Dreams (MJ-5)	RudeSka
-stric			<johannes@defcom.se>
-Tile			Daniel W. Lemon  <dwl@wolsi.com>
-Timesteps		<dwl@wolsi.com>
-transistor		kraftBoy <gthomson@targetnet.com
-tubes			Sawsedge <sawsedge@yahoo.com>
-UFO Sightings (MJ-6)	RudeSka
-Unusual Scars		RudeSka
-Whistling		<dwl@wolsi.com>
-William3		William Wieboldt (Poke'mon Master) <waw@iname.com>
-Windows 3.1		Toaster T. Toaster <toaster@kami.com>
-WMgtk			enterfornone <efn@themes.org>
-WM.T.O			Pal Palocz <palocz.pal@mail.deltav.hu>
-WoodIT			Igor Truszkowski <igor@chaos.w.pl>
-xshare			Josef 'Jupp' Schugt <jupp@gmx.de>
-X.T.O			Pal Palocz <palocz.pal@mail.deltav.hu>
-zrpg			Joel Rosenthal
+Autorzy tematów:
+Thane - Xerithane <xerithane@nerdfarm.org>
+crud - <dwl@wolsi.com>
+Getaway - Xerithane <xerithane@nerdfarm.org>
+houseMoneyBlessing - ?
+iMac-lol - RB_____ from the Jim-mac theme of Jakub Steiner
+lameh - artwiz
+aQua - CW Zuckschwerdt <zany@triq.net>
+mechasan - Pal Palocz <palocz.pal@mail.deltav.hu>
+Strange Dreams (MJ-5) - RudeSka
+stric - <johannes@defcom.se>
+Tile - Daniel W. Lemon  <dwl@wolsi.com>
+Timesteps - <dwl@wolsi.com>
+transistor - kraftBoy <gthomson@targetnet.com
+tubes - Sawsedge <sawsedge@yahoo.com>
+UFO Sightings (MJ-6) - RudeSka
+Unusual Scars - RudeSka
+Whistling - <dwl@wolsi.com>
+William3 - William Wieboldt (Poke'mon Master) <waw@iname.com>
+Windows 3.1 - Toaster T. Toaster <toaster@kami.com>
+WMgtk - enterfornone <efn@themes.org>
+WM.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
+WoodIT - Igor Truszkowski <igor@chaos.w.pl>
+xshare - Josef 'Jupp' Schugt <jupp@gmx.de>
+X.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
+zrpg - Joel Rosenthal
 
 %prep
 %setup -q -n %{name}
