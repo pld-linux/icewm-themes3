@@ -1,5 +1,5 @@
-Summary:	Pack of themes for icewm
-Summary(pl):	Zestaw tematów dla icewm
+Summary:	Pack of themes for IceWM
+Summary(pl):	Zestaw tematów dla IceWM
 Name:		icewm-themes-pack3
 Version:	1.0
 Release:	3
@@ -15,8 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_themesdir	/usr/X11R6/lib/X11/icewm/themes
 
 %description
-This is a set of 25 themes for icewm.
-Authors:
+This is a set of 25 themes for IceWM. Authors:
 Thane - Xerithane <xerithane@nerdfarm.org>
 crud - <dwl@wolsi.com>
 Getaway - Xerithane <xerithane@nerdfarm.org>
@@ -44,7 +43,7 @@ X.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
 zrpg - Joel Rosenthal
 
 %description -l pl
-Jest to zestaw 25 tematów do uprzyjemnienia wygl±du twojego icewm'a.
+Jest to zestaw 25 tematów do uprzyjemnienia wygl±du twojego IceWMa.
 Autorzy tematów:
 Thane - Xerithane <xerithane@nerdfarm.org>
 crud - <dwl@wolsi.com>
