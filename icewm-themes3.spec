@@ -9,7 +9,6 @@ Group:		Themes
 Group(de):	Themen
 Group(pl):	Motywy
 Source0:	%{name}.tar.gz
-
 Requires:	icewm
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
