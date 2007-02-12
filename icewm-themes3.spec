@@ -1,5 +1,5 @@
 Summary:	Pack of themes for IceWM
-Summary(pl):	Zestaw motywów dla IceWM-a
+Summary(pl.UTF-8):   Zestaw motywÃ³w dla IceWM-a
 Name:		icewm-themes3
 Version:	1.0
 Release:	2
@@ -42,9 +42,9 @@ xshare - Josef 'Jupp' Schugt <jupp@gmx.de>
 X.T.O - Pal Palocz <palocz.pal@mail.deltav.hu>
 zrpg - Joel Rosenthal
 
-%description -l pl
-Jest to zestaw 25 motywów do uprzyjemnienia wygl±du twojego IceWMa-a.
-Autorzy motywów:
+%description -l pl.UTF-8
+Jest to zestaw 25 motywÃ³w do uprzyjemnienia wyglÄ…du twojego IceWMa-a.
+Autorzy motywÃ³w:
 Thane - Xerithane <xerithane@nerdfarm.org>
 crud - <dwl@wolsi.com>
 Getaway - Xerithane <xerithane@nerdfarm.org>
